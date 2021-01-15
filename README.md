@@ -25,4 +25,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Solo se termino la estructura del proyecto
 ## se agrego la parte de rutas y se comenzo a hacer algunos estilos,
-## se uso buefy para llevar a cabo el proyecto, pero no se termino por completo el ejercicio.
